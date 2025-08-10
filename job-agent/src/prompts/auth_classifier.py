@@ -1,0 +1,1 @@
+# Auth classifier prompt template

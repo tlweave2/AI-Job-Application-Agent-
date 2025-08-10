@@ -1,0 +1,1 @@
+# RAG drafter prompt template

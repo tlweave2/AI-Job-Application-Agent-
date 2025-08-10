@@ -1,0 +1,7 @@
+personal:
+  work_authorization: "Yes, authorized to work in US"
+  relocation: "Open to relocation"
+
+experience:
+  years_programming: "5+ years"
+  preferred_technologies: ["Python", "React", "AWS"]

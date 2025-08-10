@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  job-agent:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1

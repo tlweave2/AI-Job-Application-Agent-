@@ -1,0 +1,8 @@
+browser:
+  headful: true
+  user_data_dir: "./data/browser_profile"
+  viewport: { width: 1280, height: 720 }
+
+thresholds:
+  short_field_accuracy: 0.99
+  long_answer_confidence: 0.90
